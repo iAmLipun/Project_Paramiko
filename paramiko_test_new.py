@@ -4,9 +4,9 @@ import netifaces
 import platform
 from pymongo import MongoClient
 
-host_list = [ "23.101.130.248" ]
-uname = "masterhost"
-pss = "masterhost@007"
+host_list = [ "xx.xx.xxx.xx" ]
+uname = "usr"
+pss = "pwd"
 
 
 docs = []
